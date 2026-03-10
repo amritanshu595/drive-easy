@@ -1,0 +1,10 @@
+# ninja log v5
+23	1563	7948230272287011	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	15be088ab9ef97be
+16	1586	7948230272545725	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	1bd68dc7c2c34a8f
+11	1593	7948230272638593	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	96b961f23618f424
+50	1635	7948230273037108	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	fc7e40de19a35184
+6	1651	7948230273231385	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	92755da7072933cb
+40	1836	7948230275046700	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3c1c071e2ba0f411
+31	1850	7948230275244989	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	271cb17c4b2b6ce8
+1	1964	7948230276318376	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	4a1fb4d80087a2c4
+1964	2123	7948230277966807	C:/Users/91727/ZombieHitFrenzy/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/21t1k1h3/obj/arm64-v8a/libgame.so	622e7d1e36a5459a
